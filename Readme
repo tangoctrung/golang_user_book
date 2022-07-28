@@ -7,7 +7,5 @@ Description: Xây dựng một server bằng Go (framework Gin-Gonic) với các
   
   
  Khởi chạy project
-
-  ```bash
-   go run main.go
-  ```
+ 
+    go run main.go
