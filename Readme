@@ -1,0 +1,11 @@
+Description: Xây dựng một server bằng Go (framework Gin-Gonic) với các chức năng
+
+  + Tạo người dùng và xác thực người dùng với JWT
+  + Cho phép người dùng update thông tin cá nhân và get thông tin cá nhân
+  + Cho phép người dùng create book, update book, delete book, get book theo id hoặc get all.
+  
+  
+  
+ Khởi chạy project
+ 
+ go run main.go
